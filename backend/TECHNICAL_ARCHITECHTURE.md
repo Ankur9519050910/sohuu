@@ -1,4 +1,5 @@
 ```mermaid
-    Start
-end
+    graph TD
+        Start(start)->[Login]
+    end
 ```
